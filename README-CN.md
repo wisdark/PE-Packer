@@ -1,10 +1,10 @@
-# Windows PE Packer
+# *Windows* *PE* Packer
 
 ![C](docs/badges/C-17.svg)
 ![MASM](docs/badges/MASM-8.svg)
 [![CMake](docs/badges/Made-with-CMake.svg)](https://cmake.org)
 [![Windows](docs/badges/Microsoft-Windows.svg)](https://www.microsoft.com/en-ie/windows)
-[![License](docs/badges/License-GPL-3.0.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+![License](docs/badges/License-MIT.svg)
 
 ## 翻译
 
@@ -114,4 +114,4 @@ PE-Packer hello.exe hello-pack.exe
 
 ## 许可证
 
-使用*GNU General Public*协议，请参考`LICENSE`文件。
+使用*MIT*协议，请参考`LICENSE`文件。

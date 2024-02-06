@@ -1,17 +1,17 @@
-# Windows PE Packer
+# *Windows* *PE* Packer
 
 ![C](docs/badges/C-17.svg)
 ![MASM](docs/badges/MASM-8.svg)
 [![CMake](docs/badges/Made-with-CMake.svg)](https://cmake.org)
 [![Windows](docs/badges/Microsoft-Windows.svg)](https://www.microsoft.com/en-ie/windows)
-[![License](docs/badges/License-GPL-3.0.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+![License](docs/badges/License-MIT.svg)
 
 ## Languages
 
 - [English](https://github.com/czs108/Windows-PE-Packer/blob/master/README.md)
 - [简体中文](https://github.com/czs108/Windows-PE-Packer/blob/master/README-CN.md)
 
-## About The Project
+## Introduction
 
 ![test-helloworld](docs/screenshots/test-helloworld.png)
 
@@ -114,4 +114,4 @@ You can use [*Doxygen*](http://www.doxygen.nl) to generate the document.
 
 ## License
 
-Distributed under the *GNU General Public License*. See `LICENSE` for more information.
+Distributed under the *MIT License*. See `LICENSE` for more information.
