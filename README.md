@@ -108,9 +108,8 @@ You can use [*Doxygen*](http://www.doxygen.nl) to generate the document.
 
 ## References
 
-[*《加密与解密（第3版）》段钢*](https://book.douban.com/subject/3091212)
-
-[*PE Format - Windows Dev Center*](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
+- [*《加密与解密（第3版）》段钢*](https://book.douban.com/subject/3091212)
+- [*PE Format - Windows Dev Center*](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 
 ## License
 
